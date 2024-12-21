@@ -106,7 +106,7 @@
 
     <!-- About Section -->
     <div class="w3-container w3-padding-32 m-5 d-flex flex-column justify-content-center align-items-center text-center" id="about">
-        <h1 class="w3-border-bottom w3-border-light-grey w3-padding-16"><strong>Island of Personalities</strong></h1>
+        <h1 class="w3-border-bottom w3-border-light-grey w3-padding-16"><strong>Islands</strong></h1>
         <h5 class="text-secondary">Interests and loved ones</h5>
         <p class="mt-3">The Islands of Personality represent the unique aspects of who I am, each powered by core memories—cherished moments 
         that have profoundly shaped my identity. These core memories capture pivotal experiences, filled with joy, sadness, 
